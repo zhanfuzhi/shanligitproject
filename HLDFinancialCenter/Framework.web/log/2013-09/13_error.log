@@ -1,0 +1,46 @@
+记录时间：2013-09-13 10:22:09,032  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:68)
+   异常：
+ 消息：eror:    在 System.Text.Encoding.GetBytes(String s)
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 55
+
+
+记录时间：2013-09-13 10:23:01,745  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:68)
+   异常：
+ 消息：eror:    在 System.Text.Encoding.GetBytes(String s)
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 55
+
+
+记录时间：2013-09-13 13:41:27,898  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:77)
+   异常：
+ 消息：eror:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Shanlitech_Location.CustomComponents.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Shanlitech_Location\CustomComponents\LocationMsg.cs:行号 341
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 71
+
+
+记录时间：2013-09-13 13:42:09,758  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:77)
+   异常：
+ 消息：eror:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Shanlitech_Location.CustomComponents.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Shanlitech_Location\CustomComponents\LocationMsg.cs:行号 341
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 71
+
+
+记录时间：2013-09-13 13:42:14,540  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:77)
+   异常：
+ 消息：eror:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Shanlitech_Location.CustomComponents.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Shanlitech_Location\CustomComponents\LocationMsg.cs:行号 341
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 71
+
+
+记录时间：2013-09-13 13:43:56,325  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:77)
+   异常：
+ 消息：eror:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Shanlitech_Location.CustomComponents.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Shanlitech_Location\CustomComponents\LocationMsg.cs:行号 341
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 71
+
+

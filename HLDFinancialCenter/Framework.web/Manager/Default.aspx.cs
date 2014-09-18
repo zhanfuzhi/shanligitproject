@@ -1,0 +1,26 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using FrameWork.Components;
+
+namespace FrameWork.web
+{
+    public partial class _Default : System.Web.UI.Page
+    {
+        public string FrameName = FrameSystemInfo.GetSystemInfoTable.S_Name;
+        public string FrameNameVer = FrameSystemInfo.GetSystemInfoTable.S_Version;
+        public int MenuStyle = Common.MenuStyle;
+        public string UserCName = UserData.GetUserDate.U_CName;
+        protected void Page_Load(object sender, EventArgs e)
+        {
+                       
+        }
+    }
+}

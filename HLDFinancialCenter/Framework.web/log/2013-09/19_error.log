@@ -1,0 +1,486 @@
+记录时间：2013-09-19 10:12:07,216  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:12:07,289  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:12:07,305  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:12:07,305  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:12:07,305  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:12:07,347  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:13:10,071  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:13:10,079  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:13:10,088  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:13:10,095  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:13:10,103  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:13:10,110  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:13:10,118  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:13:10,125  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:13:10,133  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:13:10,141  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:14:30,465  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:14:32,301  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:14:32,977  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:14:33,399  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:14:33,826  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:14:34,225  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:14:34,546  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:14:34,802  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:14:35,011  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:14:35,195  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:15:17,807  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:15:17,814  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:15:17,826  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:15:17,834  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:15:17,842  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:15:17,851  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:15:17,859  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:15:17,866  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:15:17,874  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:15:17,882  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:16:05,062  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:16:05,072  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:16:05,080  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:16:05,088  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:16:05,096  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:16:05,104  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:16:05,112  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:16:05,120  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:16:05,128  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:16:05,136  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:18:31,399  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:18:31,392  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:18:31,424  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:18:31,438  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:18:31,445  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:18:31,454  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:18:31,460  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
+记录时间：2013-09-19 10:18:31,465  日志级别：ERROR 
+     记录位置：FrameWork.web.WebService.UploadLocation.ProcessRequest(E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:35)
+   异常：
+ 消息：error:    在 Google.ProtocolBuffers.GeneratedBuilder`2.BuildParsed()
+   在 Protobuf.Components.Location.ParseFrom(Byte[] data) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Components\LocationMsg.cs:行号 340
+   在 Protobuf.Protobuf_Codec.ParseForm(Stream stream) 位置 E:\working\SLocation\SLocationWeb\Protobuf\Protobuf_Codec.cs:行号 48
+   在 FrameWork.web.WebService.UploadLocation.ProcessRequest(HttpContext context) 位置 E:\working\SLocation\SLocationWeb\Framework.web\WebService\UploadLocation.ashx.cs:行号 30
+
+
